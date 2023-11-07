@@ -25,6 +25,8 @@ Discord: good_input
 - [Ensuring Valid Moves](#enforce-constraints-on-valid-moves-and-force-the-player-to-give-their-opponent-information-about-their-opponents-previous-move-in-order-to-continue-playing)
 - [Winning](#winning-the-game)
 
+Discord: good_input
+
 # Summary
 
 <img alt="workshop/battleship" width="1412" src="../.resources/battleship-steps.png">
